@@ -1,1 +1,1 @@
-"use strict";require("./no-js.js"),require("./toggle-menu.js"),require("./swiper.js"),require("./range-slider.js"),require("./filter.js"),require("./create-cards.js"),require("./map.js");
+import"./no-js.js";import"./toggle-menu.js";import"./swiper.js";import"./range-slider.js";import"./filter.js";import"./create-cards.js";import"./map.js";
