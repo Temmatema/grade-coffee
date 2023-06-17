@@ -1,0 +1,1 @@
+"use strict";var toggleBar=document.querySelector(".nav__toggle"),menu=document.querySelector(".nav__links");toggleBar.onclick=function(){toggleBar.classList.toggle("active"),menu.classList.toggle("open")};
